@@ -1,0 +1,25 @@
+.App-Button{
+    background-color: #92a8d1;
+    width: 50px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 0px;
+    font-size: 20px;
+    font-family: 'Orbitron';
+    
+}
+
+.App-Button-Long{
+    background-color:#f7786b;
+    width: 50px;
+    height: 85px;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 0px;
+    font-size: 20px;
+    font-family: 'Orbitron';
+    
+}
